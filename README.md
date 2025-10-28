@@ -1,4 +1,4 @@
 | Name | Description | Status |
 | ------------- | ------------- | ------------- |
-| [NaSch](flow_traffic_model.ipynb) | Модель Нагеля и Шрекенберга | ✅ |
+| [NaSch](flow_traffic_model.ipynb) | Модель NaSch (Нагеля и Шрекенберга) | ✅ |
 | ... | Модель S-NFS | ⏱️ |
