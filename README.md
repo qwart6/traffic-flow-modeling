@@ -9,5 +9,6 @@
 | ------------- | ------------- | ------------- |
 | [NaSch](flow_traffic_model.ipynb) | Модель NaSch (Нагеля и Шрекенберга) | ✅ |
 | ... | Модель S-NFS | ⏱️ |
+
 ![telegram-cloud-photo-size-2-5190589267548699932-y](https://github.com/user-attachments/assets/ccca8761-982f-4d78-b60f-b2d22b8725bb)
 
