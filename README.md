@@ -8,7 +8,7 @@
 | Name | Description | Status |
 | ------------- | ------------- | ------------- |
 |   [  NaSch  ](flow_traffic_model.ipynb)   | Модель NaSch (Нагеля и Шрекенберга) | ✅ |
-| [  NaSch  ](flow_traffic_model.ipynb) | Модель S-NFS | ⏱️ |
+| [  S-NFS  ](S-NFS.ipynb) | Модель S-NFS | ⏱️ |
 
 <img width="467" height="340" alt="image" src="https://github.com/user-attachments/assets/86c59fbc-a1df-42ab-8eb4-80627ba9e6fa" />
 
